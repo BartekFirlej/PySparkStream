@@ -1,0 +1,4 @@
+# Configuration for Cassandra
+CASSANDRA_PORT = 9042
+CASSANDRA_KEYSPACE = "ecomerce"
+CASSANDRA_HOST = "192.168.48.12"
